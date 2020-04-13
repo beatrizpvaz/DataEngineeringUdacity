@@ -29,7 +29,7 @@ There are 4 main learning modules:
 
 **Project: Data Lake**
 
-##Data Pipelines with Airflow
+## Data Pipelines with Airflow
 1. Data Pipelines
 2. Data Quality 
 3. Production Data Pipelines
